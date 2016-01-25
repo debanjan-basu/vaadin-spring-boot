@@ -1,4 +1,4 @@
-package com.github.paolodenti.vaadinspringboot.app;
+package com.github.paolodenti.vaadinspringboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
